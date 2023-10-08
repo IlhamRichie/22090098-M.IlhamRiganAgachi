@@ -16,6 +16,7 @@ public class UASPemrogramanKomputer {
     public static void main(String[] args) {
         System.out.println("Tes Repo");
         System.out.println("berhasil");
+        System.out.println("kenapa tidak bisa connect yaallah");
         // TODO code application logic here
     }
     
