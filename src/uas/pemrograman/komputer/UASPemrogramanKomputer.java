@@ -15,6 +15,7 @@ public class UASPemrogramanKomputer {
      */
     public static void main(String[] args) {
         System.out.println("Tes Repo");
+        System.out.println("berhasil");
         // TODO code application logic here
     }
     
