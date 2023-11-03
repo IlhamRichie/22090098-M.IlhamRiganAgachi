@@ -17,7 +17,7 @@ public class DBConnection {
 
         try {
 
-            String dbURL = "jdbc:sqlserver://DESKTOP-U3DPH2O:1433;databaseName=SalesInventoryManagementSystem;userName=cs;password=220";
+            String dbURL = "jdbc:sqlserver:root;databaseName=DBUMKM;userName=root;password=null";
             conn = DriverManager.getConnection(dbURL);
             return conn;
         } catch (SQLException ex) {
